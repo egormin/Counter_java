@@ -9,6 +9,6 @@
      data-ad-region="mkyongregion"></ins>
 <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
-</script><h2>Hello World! v1</h2>
+</script><h2>Hello World! v0.1</h2>
 </body>
 </html>
